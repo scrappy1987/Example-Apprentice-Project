@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+bin/
+ParkingTicket.txt
+ParkingTicketAuthorisation.txt
+.idea
+*.iml
